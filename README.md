@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1500&color=ffffff&multiline=true&repeat=false&width=600&lines=Deploying+Core+Services:)](https://git.io/typing-svg)
+# [![Typing VG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1500&color=ffffff&multiline=true&repeat=false&width=600&lines=Deploying+Core+Services:)](https://git.io/typing-svg)
 
 <br>
 💡<br>
