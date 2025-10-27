@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1500&color=ffffff&multiline=true&repeat=false&width=600&lines=Deploying+Core+Services:)](https://git.io/typing-svg)
 
-```bash
 💡
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2500&color=FE5400&multiline=true&repeat=false&width=600&lines=Innovation)](https://git.io/typing-svg)
